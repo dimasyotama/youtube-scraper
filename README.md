@@ -18,6 +18,8 @@ pip install -r requirements.txt
 python app.py
 ```
 
+### 3. Input Link youtube link after run the program
+
 Note : 
 1. The Chromdriver must be a same version of your laptop chrome version.
 2.  This Program it's not hacking program, it's a scraping that you get data from comment section youtube.
